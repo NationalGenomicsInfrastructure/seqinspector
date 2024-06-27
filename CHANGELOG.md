@@ -10,6 +10,8 @@ Initial release of nf-core/seqinspector, created with the [nf-core](https://nf-c
 ### `Added`
 
 - [#13](https://github.com/nf-core/seqinspector/pull/13) Generate reports per run, per project and per lane.
+- Added `execute` permission to `main.nf`
+- Added `FASTQ_FASTQC_UMITOOLS_FASTP` sub-workflow
 
 ### `Fixed`
 
